@@ -1,0 +1,14 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "webapp that displays the chronological order in which this web server went up",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "author": "avivtsadik",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
